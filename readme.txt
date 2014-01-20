@@ -1,5 +1,0 @@
-This is a testing of Git between multiple users. -Crisandwitch
-
-and this is tcraig!
-
-one more change! - tcraig789
